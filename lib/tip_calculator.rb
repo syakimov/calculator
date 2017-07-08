@@ -1,5 +1,7 @@
 require "tip_calculator/version"
 
 module TipCalculator
-  # Your code goes here...
+  def self.test
+    puts 'Hallo Welt!'
+  end
 end
